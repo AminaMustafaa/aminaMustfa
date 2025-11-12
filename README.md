@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello, I'm Amina!
+A student at ITB, learning to *code*
 
 <!--
 **aminaMustfa/aminaMustfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
